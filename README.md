@@ -29,7 +29,7 @@ Aerial manipulation has recently attracted increasing interest from both industr
 
 ## TODO
 Opensource list:
-- [] hardware design
+- [x] hardware design
 - [] mujoco simulation
 - [] MPC controller
 
